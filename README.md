@@ -5,3 +5,9 @@ This repo is aimed for distributing compiled [AngularJS](https://github.com/angu
 All the source files is from [code.angularjs.org](https://code.angularjs.org/).
 
 If you have any issues with AngularJS, please leave an issue in official [AngularJS repo](https://github.com/angular/angular.js).
+
+# Install
+
+```
+bower install angular.js
+```
